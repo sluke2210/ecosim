@@ -54,6 +54,8 @@
   <ItemGroup>
      <Compile Include="Assets\Templates\Scripts\SimpleCameraController.cs" />
      <Compile Include="Assets\Templates\TutorialInfo\Scripts\Readme.cs" />
+     <Compile Include="Assets\Scripts\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\CameraController.cs" />
  <Reference Include="UnityEngine">
  <HintPath>/home/luke/Unity/Hub/Editor/2020.3.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
